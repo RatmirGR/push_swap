@@ -1,10 +1,10 @@
 <h3>Project name:</h3>
 <h2> push_swap</h2>
 
-<b>Project description:</b>
+<b><ins>Project description:</ins></b>
 This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.
 
-<b>Task:</b>
+<b><ins>Task:</ins></b>
 <p>Your project must comply with the following rules:</p>
 <p>• You have to turn in a Makefile which will compile your source files. It must not relink.</p>
 <p>• Global variables are forbidden.</p>
@@ -35,7 +35,7 @@ grade will be 0.</p>
 <p>rrb (reverse rotate b): Shift down all elements of stack b by 1. The last element becomes the first one.</p>
 <p>rrr : rra and rrb at the same time.</p>
 
-<p>Bonus part</p>
+<p><ins>Bonus part</ins></p>
 <p>Write a program named checker that takes as an argument the stack a formatted as a list of integers. The first argument should be at the top of the stack (be careful about the order). If no argument is given, it stops and displays nothing.</p>
 <p>• It will then wait and read instructions on the standard input, each instruction will be followed by ’\n’. Once all the instructions have been read, the program has to execute them on the stack received as an argument. If after executing those instructions, the stack a is actually sorted and the stack b is empty, then the program must display "OK" followed by a ’\n’ on the standard output.</p>
 <p>• In every other case, it must display "KO" followed by a ’\n’ on the standard output.</p>
