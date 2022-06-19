@@ -1,10 +1,10 @@
 <h3>Project name:</h3>
 <h2> push_swap</h2>
 
-<b><ins>Project description:</ins></b>
+<p><ins>Project description:</ins></p>
 This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves. To make this happen, have to manipulate various sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.
-
-<b><ins>Task:</ins></b>
+<p></p>
+<p><ins>Task:</ins></p>
 <p>Your project must comply with the following rules:</p>
 <p>• You have to turn in a Makefile which will compile your source files. It must not relink.</p>
 <p>• Global variables are forbidden.</p>
